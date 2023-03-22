@@ -1,0 +1,371 @@
+.basket_logo{
+  display: flex;
+  justify-content: center;
+}
+
+.head_li{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 40px;
+  list-style: none;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+
+
+  color: #000000;
+ 
+}
+
+.head_info{
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+ 
+  line-height: 37px;
+  
+  color: #575757;
+
+
+
+}
+
+.input_mail {
+  width: 870px;
+  padding: 10px;
+  
+}
+::placeholder {
+  color: #3D3B3B;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  
+}
+
+.square_button{
+  color: black;
+  background-color: #fff;
+  padding: 10px;
+
+}
+
+.head_delivery{
+  font-family: 'Karla';
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 37px;
+  
+  color: #5A5454;
+
+}
+
+.input_delivery{
+   width: 865px;
+  padding: 13px;
+  
+  
+
+}
+
+.nav_down{
+  margin-left: -20px;
+}
+
+.input_name{
+  width: 430px;
+  padding: 10px;
+}
+.input_surname{
+  width: 410px;
+  padding: 10px;
+  margin-top: 30px;
+  
+}
+
+
+
+.container{
+  width:900px;
+  margin: 0 auto;
+
+}
+
+.input_adres{
+  width: 870px;
+  padding: 10px;
+  
+}
+
+
+.adres_div{
+  margin-top: 30px;
+}
+
+.input_apart{
+  width: 870px;
+  padding: 10px;
+  
+}
+
+.div_apart{
+  margin-top: 30px;
+
+}
+
+.div_index{
+  margin-top: 30px;
+
+}
+
+.input_index{
+  width: 870px;
+  padding: 10px;
+
+}
+
+.div_number{
+  margin-top: 30px;
+}
+
+.input_number{
+  width: 870px;
+  padding: 10px;
+
+}
+
+.products_powder{
+  display: flex;
+  
+  margin-bottom: 20px;
+}
+
+.powder_text{
+  display: flex;
+  justify-content: center;
+
+  width: 40%;
+
+ 
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+  
+
+}
+
+.powder_price{
+  display: flex;
+  justify-content: end;
+  width: 100%;
+ 
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+  
+}
+
+.products_cream{
+  display: flex;
+
+  margin-bottom: 20px;
+
+}
+
+.cream_text{
+  display: flex;
+  justify-content: center;
+
+  width: 40%;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #000000;
+  
+
+}
+
+.cream_price{
+  display: flex;
+  justify-content: end;
+  width: 100%;
+ 
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #000000;
+  
+
+}
+
+.products_mask{
+  display: flex;
+  
+  
+
+}
+
+.mask_text{
+  display: flex;
+  justify-content: center;
+
+  width: 90%;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+
+
+}
+
+.mask_price{
+  display: flex;
+  justify-content: end;
+  width: 100%;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+
+}
+
+.gg_line{
+  border: 1px solid #6F6A6A;
+  transform: rotate(0.09deg);
+  
+}
+
+.div_card{
+  margin-top: 50px;
+  width: 100%;
+}
+
+
+.input_card{
+  width: 630px;
+  padding: 11px;
+  margin: 15px;
+
+}
+
+.card_button{
+  padding: 14px;
+  width: 200px;
+  background-color: #CACACA;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+
+
+  color: #332E2E;
+}
+
+
+.total_div{
+  display: flex;
+  
+}
+
+.total_text{
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+
+
+  color: #2F2E2E;
+
+}
+
+.total_price{
+  display: flex;
+  width: 100%;
+  justify-content: end;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+  
+
+
+}
+
+.div_perevozki{
+  display: flex;
+
+
+}
+
+.text_step{
+  display: flex;
+  width: 100%;
+  justify-content: end;
+
+}
+
+.total_price_point{
+  display: flex;
+
+}
+
+.text_total_price{
+
+  
+font-family: 'Karla';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+
+.price_point{
+  display: flex;
+  width: 100%;
+  justify-content: end;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+
+}
